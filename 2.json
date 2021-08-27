@@ -1,0 +1,49 @@
+[
+  {
+    "name": "A",
+    "inputFrom": []
+  },
+  {
+    "name": "B",
+    "inputFrom": [
+      0,
+      0
+    ]
+  },
+  {
+    "name": "C",
+    "inputFrom": [
+      1
+    ]
+  },
+  {
+    "name": "D",
+    "inputFrom": [
+      2
+    ]
+  },
+  {
+    "name": "E",
+    "inputFrom": [
+      3
+    ]
+  },
+  {
+    "name": "F",
+    "inputFrom": [
+      4
+    ]
+  },
+  {
+    "name": "G",
+    "inputFrom": [
+      5
+    ]
+  },
+  {
+    "name": "H",
+    "inputFrom": [
+      6
+    ]
+  }
+]
